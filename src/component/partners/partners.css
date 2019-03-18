@@ -1,0 +1,9 @@
+.partners_container {
+    text-align: center;
+}
+
+.carousel {
+    perspective: 400em !important;
+    margin-top: -50px !important;
+    margin-bottom: -50px !important;
+}

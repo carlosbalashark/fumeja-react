@@ -1,0 +1,10 @@
+.button_sigIt {
+    background-color: #000;
+    color: #00FF00;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+.button_sigIt:hover {
+    background-color: #fff;
+}

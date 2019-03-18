@@ -1,0 +1,58 @@
+
+.plan_centro {
+    text-align: center;
+    background-color: #000;
+}
+
+.plan_conteudo{
+    padding: 40px 50px 20px 50px;
+    text-align: center;
+}
+
+.plan_title {
+    padding: 20px 0px 20px 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+    color: #fafafa;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow:#0B610B 2px 2px;
+}
+
+.plan_cardTitle {
+    padding: 10px 0px 20px 0px;
+}
+
+.plan_type {
+    font-size: 15px;
+}
+
+.plan_name{
+    font-size: 25px;
+}
+
+.plan_description{
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.plan_priceOnly {
+    text-align: left !important;
+}
+
+.plan_price {
+   margin-bottom: 5px;
+   padding: 30px;
+}
+
+.price_real{
+    font-size: 25px;
+}
+
+.plan_value{
+    font-size: 20px;
+}
+
+.card-title i{
+    line-height: 1;
+}

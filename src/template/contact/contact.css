@@ -1,0 +1,45 @@
+.contact_center {
+    width: 100%;
+    text-align: center;
+    background-color: #fafafa;
+}
+
+.contact_content {
+    padding: 40px 50px 20px 50px;
+}
+
+.contact_title {
+    padding: 20px 0px 20px 0px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+    color: #0B610B;
+    text-shadow:#000 2px 2px;
+}
+
+.contact_subTitle {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: #424242;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.prefix.active {
+    color: #0B610B !important;
+}
+
+.validate {
+    border-bottom: 1px solid #0B610B !important;
+    box-shadow: 0 1px 0 0 #0B610B !important;
+}
+
+.active {
+    color: #0B610B !important;
+}
+
+.contact_img {
+    width: 100px;
+    height: 100px;
+}

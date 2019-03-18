@@ -1,0 +1,44 @@
+.slide {
+    height: 600px !important;
+}
+
+.slides {
+    height: 100% !important;
+}
+
+.indicators{
+    position: none !important;
+    z-index: 999 !important;
+}
+
+.slide_title {
+    margin-top: 100px;
+}
+
+.slide_subTitle {
+    margin-bottom: 300px;
+}
+
+.indicators li {
+    color: #fafafa!important;
+}
+
+.indicator-item.active{
+    background-color: #0B610B!important;
+    border: solid 2px #fafafa;
+}
+
+.caption h3 {
+   color: #0B610B;
+   text-shadow:#fafafa 2px 2px;
+   text-transform: uppercase;
+   font-weight: bold;
+   font-size: 40px;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.caption h5 {
+    color: #fafafa;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
